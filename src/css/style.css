@@ -1,0 +1,136 @@
+body {
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  flex-direction: column;
+  font-size: 14px; }
+
+header {
+  height: 44px;
+  line-height: 44px;
+  position: relative; }
+  header span {
+    position: absolute;
+    left: 5px;
+    bottom: 0;
+    width: 40px; }
+    header span img {
+      width: 100%;
+      height: 100%; }
+  header .sear {
+    width: 60%;
+    height: 30px;
+    background: #f5f5f5;
+    margin: 0 auto;
+    color: #a0a0a0;
+    margin-top: 8px;
+    border-radius: 5px;
+    display: flex;
+    line-height: 30px; }
+    header .sear i {
+      margin-left: 8px;
+      margin-top: 8px; }
+    header .sear input {
+      background: #f5f5f5;
+      margin-left: 10px; }
+  header .right_head {
+    position: absolute;
+    right: 5px;
+    top: 5px;
+    line-height: 20px;
+    color: #fd2e2e;
+    text-align: center;
+    font-size: 8px; }
+    header .right_head ul {
+      display: flex; }
+      header .right_head ul img {
+        width: 18px; }
+    header .right_head li:nth-child(1) {
+      margin-right: 2px; }
+
+section {
+  flex: 1;
+  overflow-y: scroll;
+  background: #f6f5f5; }
+
+.banner {
+  height: 160px; }
+  .banner img {
+    width: 100%;
+    height: 100%; }
+
+.main {
+  height: 195px;
+  background: #fff;
+  margin-top: 8px; }
+
+.main_top {
+  height: 146px;
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center; }
+  .main_top dl {
+    width: 75px;
+    margin: 0 auto;
+    margin-top: 3px;
+    font-size: 12px; }
+    .main_top dl img {
+      width: 50px; }
+
+.main_botm {
+  height: 50px;
+  display: flex;
+  position: relative;
+  margin-top: 5px; }
+  .main_botm h3 {
+    color: #ff6d00;
+    font-size: 14px;
+    position: absolute;
+    left: 5px; }
+  .main_botm p {
+    width: 85%;
+    height: 38px;
+    font-size: 12px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    position: absolute;
+    right: 5px;
+    color: #484848; }
+
+.ztitle {
+  height: 44px;
+  background: #fff;
+  margin-top: 8px;
+  display: flex;
+  color: #ff6d00;
+  position: relative;
+  line-height: 44px; }
+  .ztitle h3 {
+    font-size: 20px; }
+    .ztitle h3 img {
+      width: 25px;
+      margin-right: 5px;
+      margin-bottom: 2px; }
+  .ztitle p {
+    margin-left: 5px; }
+  .ztitle span {
+    position: absolute;
+    right: 5px;
+    color: #484848; }
+    .ztitle span i {
+      font-size: 18px;
+      margin-left: 5px; }
+
+footer {
+  height: 42px;
+  display: flex;
+  text-align: center; }
+  footer dl {
+    flex: 1; }
+  footer .bg {
+    color: #fc4141; }
+
+/*# sourceMappingURL=style.css.map */

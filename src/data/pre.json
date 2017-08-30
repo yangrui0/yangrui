@@ -1,0 +1,32 @@
+{
+    "data":[
+        {
+            "preid":001,
+            "pre_name":"安徽特产 马鞍山特产含山乡里炒米农家炒米食品零食小吃美食  450g",
+            "pre_price":10.00,
+            "pre_distance":20.00,
+            "data_src":"http://www.lb717.com//Uploads/images/admin/depositstoregoodsupload/release/13247/2017-03/huge/9805074277.jpg"
+        },
+        {
+            "preid":002,
+            "pre_name":"安徽特产 熏鱼干熟食五香鱼240g 草鱼肉类鱼排即食零食小吃  240g ",
+            "pre_price":10.00,
+            "pre_distance":20.00,
+            "data_src":"http://www.lb717.com//Uploads/images/admin/depositstoregoodsupload/release/0/2017-03/huge/4066609950.jpg"
+            },
+        {
+            "preid":003,
+            "pre_name":"安徽特产 巢三珍鱼糜 香辣酱  180g",
+            "pre_price":10.00,
+            "pre_distance":20.00,
+            "data_src":"http://www.lb717.com//Uploads/images/admin/depositstoregoodsupload/release/0/2017-03/huge/6631399767.jpg"
+            },
+        {
+            "preid":004,
+            "pre_name":"含山特产 安徽特产农家 自制咸鱼干货鱼干生封扁鱼410g正宗肉类美食下饭菜  410g",
+            "pre_price":10.00,
+            "pre_distance":20.00,
+            "data_src":"http://www.lb717.com//Uploads/images/admin/depositstoregoodsupload/release/0/2017-03/huge/6631399767.jpg"
+        }
+    ]
+}
